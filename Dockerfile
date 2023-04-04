@@ -1,4 +1,5 @@
 
+## Some cmake problems
 FROM ubuntu:18.04 as base
 
 ENV TZ=Europe/Minsk
